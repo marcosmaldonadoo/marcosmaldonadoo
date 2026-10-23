@@ -1,48 +1,42 @@
-# 👋 Olá, eu sou o Marcos Maldonado
-
-Sou **desenvolvedor Front-end** apaixonado por criar **interfaces intuitivas e funcionais**.  
-Tenho experiência com **HTML, CSS e JavaScript**, e estou sempre buscando aprender e crescer.
-
----
-
-## 🚀 Tecnologias e Skills
-
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcosmaldonadoo/marcosmaldonadoo/main/assets/header.svg" alt="Marcos Maldonado — Suporte e Infraestrutura. Redes Wi-Fi, Windows e Automação." width="100%">
 </p>
 
-- Layouts modernos e responsivos  
-- Foco em **projetos práticos e funcionais**  
-- Buscando sempre aprender novas tecnologias
+Meu foco profissional é **suporte técnico e infraestrutura**. Aqui reúno projetos de diagnóstico de redes, ferramentas para Windows e automação de tarefas, além dos meus estudos em desenvolvimento web.
+
+Gosto de investigar problemas, entender o comportamento dos sistemas e transformar o que aprendo em soluções práticas e documentação que ajude outras pessoas.
+
+[LinkedIn](https://www.linkedin.com/in/marcos-gabriel-maldonado-20000a258) · [E-mail](mailto:marcosmaldonado0708@gmail.com) · [Todos os repositórios](https://github.com/marcosmaldonadoo?tab=repositories)
+
+## Projetos em destaque
+
+| Projeto | Problema e solução | Tecnologias |
+| :--- | :--- | :--- |
+| **[SinalMap](https://github.com/marcosmaldonadoo/SinalMap)** | Monitoramento e coleta de sinal Wi-Fi no Windows, com análise local e medições por ponto em uma planta. | C# · .NET · WPF · Native Wi-Fi API |
+| **[Blair Witch OpenSSL Fix](https://github.com/marcosmaldonadoo/blair-witch-openssl-fix)** | Correção de compatibilidade para uma falha de inicialização do jogo, com instalação, testes e limites documentados. | C · Windows x64 · PowerShell |
+| **[Automação de cadastro](https://github.com/marcosmaldonadoo/py-autocadastro)** | Estudo de automação para cadastrar produtos de uma planilha CSV em um sistema web. | Python · pandas · PyAutoGUI |
+| **[Datar Soluções](https://github.com/marcosmaldonadoo/landingpagedatarsolucoes)** | Página institucional de serviços de tecnologia, com navegação responsiva e preparação de pedidos de atendimento. | HTML · CSS · JavaScript |
+
+## O que você encontra por aqui
+
+- **Redes e diagnóstico:** leitura de dados Wi-Fi, RSSI, ICMP e interpretação de coletas no SinalMap.
+- **Windows e compatibilidade:** investigação de falhas, ferramentas locais e instruções de instalação e remoção.
+- **Automação:** uso de Python para trabalhar com dados tabulares e tarefas repetitivas.
+- **Desenvolvimento web:** interfaces com HTML, CSS e JavaScript.
+
+As tecnologias acima estão aplicadas nos repositórios. Cada projeto registra seu próprio escopo, instruções e limitações.
+
+## Estudos de desenvolvimento web
+
+| Repositório | Objetivo |
+| :--- | :--- |
+| [Corujão Noturno](https://github.com/marcosmaldonadoo/corujao-noturno) | Página de divulgação de campeonatos de Warzone. |
+| [Calculadora de IMC](https://github.com/marcosmaldonadoo/calculadora_imc) | Formulários, cálculo e atualização de conteúdo com JavaScript. |
+| [Tempo em Movimento](https://github.com/marcosmaldonadoo/clock) | Uso de data e hora para mudar o conteúdo da página. |
+| [Formulário de login](https://github.com/marcosmaldonadoo/basic-login-form) | Estruturação e estilização de uma interface de acesso. |
+| [Contador em JavaScript](https://github.com/marcosmaldonadoo/counter-in-javascript) | Estrutura inicial de um exercício de DOM, em desenvolvimento. |
 
 ---
 
-## 🌟 Projetos em destaque
-
-- [QDescontão Landing Page](https://github.com/marcosmaldonadoo/qdescontao-landing-page)  
-  Landing page institucional para supermercado, feita com **HTML e CSS**.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosmaldonadoo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmaldonadoo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Contato
-
-- **LinkedIn:** [marcos-gabriel-maldonado](https://www.linkedin.com/in/marcos-gabriel-maldonado-20000a258)  
-- **Email:** marcosmaldonado0708@gmail.com  
-
----
-
-Obrigado pela visita ao meu perfil! 🌟
+**Vamos conversar sobre suporte, infraestrutura ou automação?** Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/marcos-gabriel-maldonado-20000a258) ou por [e-mail](mailto:marcosmaldonado0708@gmail.com).
 
