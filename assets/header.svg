@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Marcos Maldonado — Suporte e Infraestrutura</title>
+  <desc id="desc">Banner azul escuro com uma rede de pontos verdes, representando conectividade e resolução de problemas.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1829"/><stop offset="1" stop-color="#142b37"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b3dddc" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="58" y="56" width="42" height="4" rx="2" fill="#67e8be"/>
+  <text x="58" y="102" fill="#91b6b9" font-family="Consolas, monospace" font-size="17" letter-spacing="3">CONECTAR · INVESTIGAR · RESOLVER</text>
+  <text x="54" y="174" fill="#f3f8fa" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Marcos Maldonado</text>
+  <text x="58" y="220" fill="#67e8be" font-family="Segoe UI, Arial, sans-serif" font-size="27">Suporte &amp; Infraestrutura</text>
+  <text x="58" y="270" fill="#b3c6ce" font-family="Segoe UI, Arial, sans-serif" font-size="18">Redes Wi-Fi / Windows / Automação</text>
+  <g fill="none" stroke="#67e8be" stroke-opacity=".35" stroke-width="2">
+    <path d="M936 79 L1052 144 L949 241 L860 161 Z M860 161 L1052 144 M936 79 L949 241"/>
+    <circle cx="936" cy="79" r="27"/><circle cx="1052" cy="144" r="17"/><circle cx="949" cy="241" r="17"/><circle cx="860" cy="161" r="17"/>
+  </g>
+  <g fill="#67e8be"><circle cx="936" cy="79" r="7"/><circle cx="1052" cy="144" r="5"/><circle cx="949" cy="241" r="5"/><circle cx="860" cy="161" r="5"/></g>
+</svg>
+
